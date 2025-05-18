@@ -1,4 +1,4 @@
-# 📊 ProjetIntégrer – Étude sur l'impact des activités parascolaires sur la performance académique
+# 📊 Projet Intégrer – Étude sur l'impact des activités parascolaires sur la performance académique
 
 Ce projet analyse les relations entre l'engagement étudiant dans des activités parascolaires et leur performance académique, à partir de données réelles collectées via un questionnaire. Il comprend un tableau de bord interactif et une série de visualisations construites avec Streamlit.
 
