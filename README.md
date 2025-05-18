@@ -71,7 +71,7 @@ Les données ont été collectées anonymement auprès d’étudiants de différ
 
 ## 👤 Auteur
 
-- **Ibrahim Mechaouat**  
+- **Brahim Mechaouat**  
   [Portfolio](https://brahex123.github.io/ibrahex123.github.io/)  
   [GitHub](https://github.com/brahex123)
 
